@@ -134,8 +134,6 @@ Ejemplo de salida esperada:
     Filósofo 5 está pensando...
     Filósofo 2 está comiendo...
 
-📸 Se pueden añadir capturas reales de tu ejecución.
-
 ------------------------------------------------------------------------
 
 ## 📚 6. Conclusiones
