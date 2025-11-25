@@ -1,7 +1,4 @@
-package View;
-
-import Model.Filosofo;
-import Model.Palillo;
+package Model;
 
 import java.util.concurrent.CountDownLatch;
 
@@ -10,7 +7,7 @@ public class Mesa {
     public static final int FILOSOFOS = 5;       // Número de filósofos y palillos
     public static final int CICLOS_MINIMOS = 2; // Número de veces que comerá cada uno
 
-    public static void main(String[] args) {
+    public static void Mesa() {
         Palillo[] palillos = new Palillo[FILOSOFOS];
         Thread[] filosofos = new Thread[FILOSOFOS];
 
