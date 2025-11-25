@@ -54,8 +54,9 @@ impedir que alguno coma indefinidamente.
           ├── Model/
           │     ├── Filosofo.java   👨‍🏫 Lógica del hilo
           │     └── Palillo.java    🥢 Semáforo individual
+          │     └── Mesa.java       🍽️ Inicio y configuración
           └── View/
-                └── Mesa.java       🍽️ Inicio y configuración
+                └── Main.java       ▶️ Ejecutable
 
 ------------------------------------------------------------------------
 
